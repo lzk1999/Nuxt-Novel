@@ -4,6 +4,12 @@ Nuxt-Novel(Nuxt版笔趣阁)是一个由第三方Json构建的一个小说阅读
 
 无需数据库，无需后端，只需要一个静态服务器即可部署。
 
+## 开发原因
+
+最近在用Nuxt3开发自己的Blog系统，开发完之后无意中看到了开原阅读项目异次元书源，
+
+发现了书源，想着能不能用Nuxt3开发一个小说阅读网站，于是就有了这个项目。纯练手Demo。
+
 ## 技术栈
 
 采用Nuxt3最新的技术栈，包括：tailwindcss、vite、composition-api、typescript、eslint、prettier、husky、lint-staged等。
